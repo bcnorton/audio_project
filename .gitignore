@@ -220,10 +220,23 @@ pip-log.txt
 # =============== #
 # Unity generated #
 # =============== #
-Temp/
-Obj/
-UnityGenerated/
-Library/
+#Temp/
+#Obj/
+#UnityGenerated/
+#Library/
+
+# Unity .gitignore file.
+.DS_Store
+Library
+Library/*
+*.csproj
+*.sln
+*.userprefs
+Temp
+*.pidb
+Build
+
+
  
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
