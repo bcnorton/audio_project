@@ -229,12 +229,12 @@ pip-log.txt
 .DS_Store
 Library
 Library/*
-*.csproj
-*.sln
-*.userprefs
+#*.csproj
+#*.sln
+#*.userprefs
 Temp
-*.pidb
-Build
+#*.pidb
+#Build
 
 
  
