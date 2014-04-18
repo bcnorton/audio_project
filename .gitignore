@@ -226,13 +226,13 @@ pip-log.txt
 #Library/
 
 # Unity .gitignore file.
-.DS_Store
-Library
-Library/*
+#.DS_Store
+#Library
+#Library/*
 #*.csproj
 #*.sln
 #*.userprefs
-Temp
+#Temp
 #*.pidb
 #Build
 
